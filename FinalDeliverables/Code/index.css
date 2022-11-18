@@ -1,0 +1,31 @@
+.bg{
+    background-color:lightsteelblue;
+    
+}
+.heading{
+    text-align: center;
+    font-size: large;
+    font-weight: 2000;
+    color: black;
+}
+.form-control{
+    text-align: center;
+}
+.btn-warning{
+    border-radius: 10%;
+    text-align: center;
+}
+.btn-info{
+    align-items: center;
+    margin: 0;
+    position:relative;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    border-top-left-radius: 10%;
+    border-bottom-right-radius: 10%;
+    color:black;
+    font-family: 'Times New Roman', Times, serif;
+    ; 
+}
